@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Mike.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning JavaScript.
+- 📫 mnoskov1986@gmail.com
