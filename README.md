@@ -1,4 +1,6 @@
-- 👋 Hi, my name is Mike.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
-- 📫 mnoskov1986@gmail.com
+# Michael Henze
+#### Wannabe Front-End Developer
+
+Hi, my name is Mike. I'm learning JavaScript with Codecademy.com. Here are my lerning projects.
+
+You can contact me via *mnoskov1986@gmail.com*.
